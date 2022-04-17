@@ -1,0 +1,162 @@
+*{
+    margin: 0px ;
+    padding: 0px;
+    }
+    body{
+        background-color: white
+    }
+    h1,h2,h3,h4{
+        color: rgb(6, 95, 203);
+    }
+    .div1{
+        background-color: rgb(177, 195, 189);
+        max-width: 1200px;
+        height: 2120px;
+        margin: 0px auto;
+    }
+    .header-class{
+        padding: 10px;
+    }
+    img{
+        height: 100px;
+        width: 100px;
+        border: 3px solid white;
+        border-radius: 50%;
+        float: left;
+    }
+    .name{
+        float: left;
+        padding: 30px;
+    }
+    .contract{
+        float: right;
+        padding: 30px;
+    }
+    .contract a{
+        text-decoration: none;
+    }
+    .contract a:hover{
+        text-decoration: underline;
+    }
+    .div-clear{
+        clear: both;
+    }
+    hr{
+        border: solid black 4px;
+        border-bottom: none;
+        width: 100%;
+        margin: 10px auto;
+        box-sizing: border-box;
+    }
+    .personal{
+        float: left;
+        padding: 5px;
+        height: 80px;
+        width: 300px;
+    }
+    .details{
+        float: right;
+        padding: 10px;
+        height: 80px;
+        width: 850px;
+    }
+    p{
+        font-size: 18px;
+    }
+    .work{
+        /* background-color: blue; */
+        float: left;
+        padding: 10px;
+        height: 600px;
+        width: 300px;
+    }
+    .workdetails{
+        /* background-color: blue; */
+        float: right;
+        padding: 10px;
+        height: 600px;
+        width: 850px;
+    }
+    .skil{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 350px;
+        width: 300px;
+        float: left;
+    }
+    .workskill{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 350px;
+        width: 850px;
+        float: right;
+    }
+    .education{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 460px;
+        width: 300px;
+        float: left;
+    }
+    .eduDetails{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 460px;
+        width: 850px;
+        float: right;
+    }
+    .honer{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 100px;
+        width: 300px;
+        float: left;
+    }
+    .honordetails{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 100px;
+        width: 850px;
+        float: right;
+    }
+    .ref{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 100px;
+        width: 300px;
+        float: left;
+    }
+    .refdetils1{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 100px;
+        width: 400px;
+        float: left;
+    }
+    .refdetils2{
+        /* background-color: blue; */
+        padding: 10px;
+        height: 100px;
+        width: 400px;
+        float: right;
+    }
+    .link{
+        background-color: black;
+        color: aliceblue;
+        text-align: center;
+        padding: 10px;
+        width: 900px;
+        height: 60px;
+        margin: 10px auto;
+        
+    }
+    .link a{
+        text-decoration: none;
+        padding: 10px;
+        color: aliceblue;
+        margin: 10px;
+    }
+    .link a:hover{
+        color: blue;
+        text-decoration: underline;
+    }
